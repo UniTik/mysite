@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(163, 163, 163);
+    margin: auto;
+    text-align: center;
+}
+.box{ 
+    text-align: left;
+    border: 2px black;
+    position: relative;
+    background-color: rgb(230, 250, 159);
+    margin-left: 20px;
+    height: 400px;
+    width: 400px;
+}
